@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚗 Vehicle Detection with YOLOv4
+# 🚗 Vehicle Detection Using YOLOv4
 
 ### Vehicle detection in video footage using Python, OpenCV DNN, and YOLOv4
 
